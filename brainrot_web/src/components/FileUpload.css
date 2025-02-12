@@ -11,3 +11,20 @@
 .upload-button {
     margin-left: 10px;
 }
+
+.audio-player-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.play-button {
+    margin-top: 10px;
+}
+
+.video-player {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 600px;
+}
